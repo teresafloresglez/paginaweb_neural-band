@@ -30,7 +30,7 @@ Las imágenes pertenecen a Meta y se usan solo con fines docentes. Las fuentes d
 ## URL
 
 ````
-Enlace a la web publicada: https://teresafloresglez.github.io/paginaweb_neural-band/
+https://teresafloresglez.github.io/paginaweb_neural-band/
 ````
 
 
