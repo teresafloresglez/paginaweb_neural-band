@@ -26,5 +26,4 @@ Está hecha solo con HTML y CSS, sin JavaScript.
 ## Créditos
 
 Las imágenes pertenecen a Meta y se usan solo con fines docentes. Las fuentes de información están enlazadas al final de la propia web.
-````
-````
+
