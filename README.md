@@ -27,3 +27,10 @@ Está hecha solo con HTML y CSS, sin JavaScript.
 
 Las imágenes pertenecen a Meta y se usan solo con fines docentes. Las fuentes de información están enlazadas al final de la propia web.
 
+## URL
+
+````
+Enlace a la web publicada: https://teresafloresglez.github.io/paginaweb_neural-band/
+````
+
+
